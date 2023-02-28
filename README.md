@@ -8,7 +8,7 @@ Unlike Attribution Modeling, another technique used for marketing attribution, M
 
 Generally, your output variable will be sales or conversions, but can also be things like website traffic. Your input variables typically consist of marketing spend by channel by period (day, week, month, quarter, etc…), but can also include other variables which we’ll get to later.
 
-add Codeadd Markdown
+
 Why is it so Useful?
 
 You can tap into the power of a marketing mix model in a number of ways, including:
